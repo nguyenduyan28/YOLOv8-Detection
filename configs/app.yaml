@@ -1,0 +1,4 @@
+imgsz: 416
+conf: 0.35
+iou: 0.5
+max_det: 50
