@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ### 4. Chạy ứng dụng
 
 ``` bash
-streamlit run app/streamlit_app.py
+streamlit run streamlit_app.py
 ```
 
 ## 🖼️ Sử dụng
