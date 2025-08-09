@@ -3,6 +3,10 @@
 Ứng dụng web demo sử dụng **YOLOv8** để phát hiện đối tượng trong ảnh,
 xây dựng bằng **Streamlit**.
 
+## 📹 Demo
+[🎬 Xem video demo trên YouTube](https://youtu.be/VBH0vWLwnh4)
+
+
 ## 🚀 Tính năng
 
 -   Tải ảnh lên từ **Clipboard**, **URL**, hoặc **Upload file**.
