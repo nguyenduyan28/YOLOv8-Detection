@@ -36,8 +36,8 @@ xây dựng bằng **Streamlit**.
 ### 1. Clone dự án
 
 ``` bash
-git clone <repository-url>
-cd deploy-yolov8
+git clone https://github.com/nguyenduyan28/YOLOv8-Detection.git
+cd YOLOv8-Detection/
 ```
 
 ### 2. Tạo môi trường ảo và cài đặt thư viện
@@ -77,7 +77,4 @@ streamlit run app/streamlit_app.py
 -   [Pillow](https://pillow.readthedocs.io/) --- xử lý ảnh.
 -   [PyYAML](https://pyyaml.org/) --- đọc file cấu hình.
 
-## 📄 Giấy phép
 
-Dự án này sử dụng giấy phép MIT. Bạn có thể tùy ý chỉnh sửa và phân
-phối.
